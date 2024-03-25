@@ -1,4 +1,11 @@
 Rencana konten yang mau saya buat : 
 - Membuat 2 project website sederhana ( Web Komviss & Web portofolio gw )
-- Belajar UI / UX design
+  Target Waktu ( 3 bulan pertama untuk Web KOMVISS & 3 bulan kedua untuk web portofolio gw ) 
+- Belajar UI / UX design 
+  Target belajar :
+    1. Paham figma
+    2. mulai desain UI / UX Web Komviss & portofolio
+    3. Buat agar resposif
+
 - Belajar animasi blender
+  buat animasi 3D sederhana
